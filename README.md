@@ -1,4 +1,4 @@
-# DevOps_UIJust
+# DevOps_UI
 📌Created a  𝐖𝐞𝐛𝐔𝐈 named as 𝐃𝐞𝐯𝐨𝐩𝐬 𝐔𝐈 where you can practice your 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 and 𝐃𝐨𝐜𝐤𝐞𝐫 commands without worrying about the cluster setup and other environment configuration.
 📌Steps for deploying the code and website on your server:
 👉Just download the repository and put everything inside the "/var/www/html" folder of your OS where your webserver is running
