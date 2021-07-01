@@ -8,7 +8,7 @@
 👉Thats all, now you just need to start your webserver and you can access the webpage from your servers ip
 📌Python must be installed in your system
 
-<h1> Home Page View <h1>
+<h4> Home Page View <h4>
 <p align="center">
 <img src="devops.jpg" width="450" height="300"> 
 </p>
