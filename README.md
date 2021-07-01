@@ -10,5 +10,5 @@
 
 <h4> Home Page View <h4>
 <p align="center">
-<img src="devops.jpg" width="450" height="300"> 
+<img src="devops.jpg" width="600" height="500"> 
 </p>
