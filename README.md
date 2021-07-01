@@ -7,3 +7,7 @@
 👉Now give permissions to Apache webserver for running docker and kubernetes commands
 👉Thats all, now you just need to start your webserver and you can access the webpage from your servers ip
 📌Python must be installed in your system
+
+<p align="center">
+<img src="devops.jpg" width="450" height="300" title="hover text"> 
+</p>
